@@ -1,0 +1,16 @@
+{
+    "messages":[],
+    "users": [{
+        "id": "user1",
+        "name": "求职者",
+        "avatar": "icon1.jpg",
+        "friends": ["user2"],
+        "lastDate": "2024-05-20T23:59:59"
+    }, {
+        "id": "user2",
+        "name": "面试官",
+        "avatar": "icon2.jpg",
+        "friends": ["user1"],
+        "lastDate": "2024-05-20T23:59:59"
+    }]
+}

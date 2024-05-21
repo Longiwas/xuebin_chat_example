@@ -1,0 +1,22 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "main": "server.ts",
+  "scripts": {
+    "test": "node server.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@koa/router": "^12.0.1",
+    "@zimtsui/koa-ws-filter": "^0.0.5",
+    "koa": "^2.15.3",
+    "lowdb": "^7.0.1",
+    "ws": "^8.17.0"
+  },
+  "devDependencies": {
+    "@types/koa__router": "^12.0.4",
+    "typescript": "^5.4.5"
+  }
+}
